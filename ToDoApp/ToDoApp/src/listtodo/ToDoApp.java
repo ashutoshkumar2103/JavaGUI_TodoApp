@@ -1,6 +1,6 @@
 package listtodo;
 //Import the required libraries for GUI
-import javax.swing.*;
+import javax.swing.*;   // For Swing components like JFrame, JButton, JTextField, etc.
 import java.awt.*;      // For layouts like BorderLayout, FlowLayout, etc.
 import java.awt.event.*; // For handling button click events
 
