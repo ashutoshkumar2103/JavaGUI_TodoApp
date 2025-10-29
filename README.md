@@ -30,6 +30,7 @@ Version Control: Git & GitHub
 
 - Open it in Eclipse (or any Java IDE).
 - Run the ToDoApp.java file.
+
 The ToDo GUI window will open — start adding your tasks!
 
 ## Notes
